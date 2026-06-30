@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Tool output
+browser_data/
+results/
