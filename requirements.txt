@@ -1,0 +1,11 @@
+# BrowserPassHunter - 依赖库
+# 安装: pip install -r requirements.txt
+
+# Windows DPAPI 解密 (必须)
+pywin32>=305
+
+# AES-GCM 解密 (必须)
+cryptography>=41.0.0
+
+# Firefox NSS 解密 (可选，用于 Firefox 密码解密)
+pycryptodome>=3.19.0
